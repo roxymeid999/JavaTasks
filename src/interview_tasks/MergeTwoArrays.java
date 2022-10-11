@@ -18,5 +18,8 @@ public class MergeTwoArrays {
         }
 
         System.out.println(Arrays.toString(result));
+
+        System.out.println("Ok");
+        System.out.println("ok");
     }
 }
